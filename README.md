@@ -1,0 +1,2 @@
+# SCNU
+Academic imformation
